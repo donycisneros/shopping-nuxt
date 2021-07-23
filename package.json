@@ -2,6 +2,11 @@
   "name": "shopping-nuxt",
   "version": "1.0.0",
   "private": true,
+  "author": {
+    "name" : "Dony Cisneros",
+    "email" : "dony.cisne@gmail.com",
+    "url" : "https://www.donycisneros.com/"
+  },
   "scripts": {
     "dev": "nuxt-ts",
     "build": "nuxt-ts build",
